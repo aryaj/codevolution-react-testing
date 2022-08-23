@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/codevolution-react-testing/static/css/main.073c9b0a.css",
-    "main.js": "/codevolution-react-testing/static/js/main.8f698913.js",
+    "main.js": "/codevolution-react-testing/static/js/main.ea7fe663.js",
     "static/js/787.9b06cee2.chunk.js": "/codevolution-react-testing/static/js/787.9b06cee2.chunk.js",
     "static/media/logo.svg": "/codevolution-react-testing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/codevolution-react-testing/index.html",
     "main.073c9b0a.css.map": "/codevolution-react-testing/static/css/main.073c9b0a.css.map",
-    "main.8f698913.js.map": "/codevolution-react-testing/static/js/main.8f698913.js.map",
+    "main.ea7fe663.js.map": "/codevolution-react-testing/static/js/main.ea7fe663.js.map",
     "787.9b06cee2.chunk.js.map": "/codevolution-react-testing/static/js/787.9b06cee2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8f698913.js"
+    "static/js/main.ea7fe663.js"
   ]
 }
